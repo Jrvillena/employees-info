@@ -4,7 +4,7 @@ Student: justin villena <br>
 Description: A Node JS powered employee profile generator.<br>
 Full Repository: https://github.com/Jrvillena/employees-info<br>
 Get the repository by: $ git clone git@github.com:Jrvillena/employees-info.git<br>
-Video Link: <br>
+Video Link: https://www.youtube.com/watch?v=TzUmvP3A6J8<br>
 <br>
 <br>
 GIVEN a command-line application that accepts user input<br>
